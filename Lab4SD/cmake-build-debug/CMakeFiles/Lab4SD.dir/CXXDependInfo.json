@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/Lab4SD/cmake-build-debug",
+	"dir-cur-src" : "D:/Lab4SD",
+	"dir-top-bld" : "D:/Lab4SD/cmake-build-debug",
+	"dir-top-src" : "D:/Lab4SD",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/Lab4SD/cmake-build-debug/CMakeFiles/Lab4SD.dir"
+}

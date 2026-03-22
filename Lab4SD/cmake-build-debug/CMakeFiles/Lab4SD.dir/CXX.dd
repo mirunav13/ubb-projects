@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Lab4SD.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/Lab4SD.dir/ATM.cpp.obj: dyndep
+
+build CMakeFiles/Lab4SD.dir/Transaction.cpp.obj: dyndep
+

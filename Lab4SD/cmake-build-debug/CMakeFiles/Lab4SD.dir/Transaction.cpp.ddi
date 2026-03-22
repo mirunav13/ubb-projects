@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/Lab4SD.dir/Transaction.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
